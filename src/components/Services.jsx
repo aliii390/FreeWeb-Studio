@@ -49,8 +49,8 @@ const Services = () => {
       <div className="max-w-7xl mx-auto">
         {/* Section header */}
         <div className="text-center mb-16">
-          <h2 className="section-title">Services</h2>
-          <p className="section-subtitle">
+          <h2 className="section-title lg:ml-[5%]">Services</h2>
+          <p className="section-subtitle lg:ml-[20%]">
             Solutions web complètes pour votre entreprise
           </p>
         </div>

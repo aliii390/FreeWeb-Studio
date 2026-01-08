@@ -29,8 +29,8 @@ const Process = () => {
       <div className="max-w-6xl mx-auto">
         {/* Section header */}
         <div className="text-center mb-16">
-          <h2 className="section-title">Processus</h2>
-          <p className="section-subtitle">
+          <h2 className="section-title lg:ml-[5%]">Processus</h2>
+          <p className="section-subtitle lg:ml-[20%]">
             Méthodologie pour garantir la réussite de votre projet
           </p>
         </div>
